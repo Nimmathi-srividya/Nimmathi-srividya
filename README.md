@@ -1,6 +1,6 @@
-#AIML LAB 2-2
-#aiml Lab01
-#aiml Lab02
-#aiml Lab03
-#aiml Lab04
-#aiml Lab05
+# AIML LAB 2-2
+#AIML Lab01
+#AIML Lab02
+#AIML Lab03
+#AIML Lab04
+#AIML Lab05
