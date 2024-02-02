@@ -1,4 +1,4 @@
-#Nimmathi srividya
+#AIML LAB 2-2
 #aiml Lab01
 #aiml Lab02
 #aiml Lab03
